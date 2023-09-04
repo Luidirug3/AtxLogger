@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
-  "name": "atxlogger",
+  "name": "atx-logger",
   "version": "1.0.0",
   "description": "A simple spdlog wrapper",
   "dependencies": [
