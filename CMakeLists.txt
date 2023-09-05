@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 
-set(atx-logger_VERSION 1.0.0)
+set(AtxLogger_VERSION 1.0.0)
 
 project(AtxLogger
 	VERSION ${AtxLogger_VERSION}
