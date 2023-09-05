@@ -3,6 +3,7 @@
   "name": "atx-logger",
   "version": "1.0.0",
   "description": "A simple spdlog wrapper",
+  "homepage": "https://github.com/Luidirug3/atx-logger",
   "dependencies": [
     "spdlog"
   ]
