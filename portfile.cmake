@@ -1,6 +1,6 @@
 vcpkg_from_github(
   OUT_SOURCE_PATH SOURCE_PATH
-  REPO Luidirug3/atx-logger
+  REPO Luidirug3/AtxLogger
   REF 54e4d49ee75db280b44a58311173c9a5013e0db7
   SHA512 7b2bb7acb2a8ff07bff59cfa27247a7b2cced03828919cd65cc0c8cf1f724f5f1e947ed6992dcdbc913fb470694a52613d1861eaaadbf8903e94eb9cdfe4d000
   HEAD_REF main
