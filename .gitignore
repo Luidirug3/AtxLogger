@@ -1,1 +1,7 @@
 build*
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# vcpkg install
+/vcpkg_installed/
